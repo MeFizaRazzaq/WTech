@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    background-color: rgb(23, 83, 118);
+    color: antiquewhite;
+    text-align: center;
+    padding: 30px;
+}
